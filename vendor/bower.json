@@ -1,0 +1,22 @@
+{
+  "name": "Test-4",
+  "homepage": "https://github.com/Aplline/Test-4/",
+  "authors": [
+    "Aplline"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "salesforce-lightning-design-system": "^2.3.1",
+    "jquery": "^3.2.1"
+  }
+}
